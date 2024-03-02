@@ -1,11 +1,12 @@
 import { useTranslations } from 'next-intl';
 import React from 'react';
 import { FaArrowUp } from "react-icons/fa";
+import Particles from '../ui/Particles';
 
 const Hero = () => {
   const t = useTranslations('Hero');
   return (
-    <div className='flex flex-col justify-center px-20 pt-72 py-24'>
+    <div className='flex flex-col justify-center px-20 pt-32 py-24 relative'>
       <div className='flex items-center justify-between'>
         <div className='text-9xl w-3/4 uppercase'>
           <h1 className='bg-gradient-to-r from-pink-500 to-blue-700 bg-clip-text text-transparent py-12' data-scroll data-scroll-speed="0.2">
@@ -13,7 +14,9 @@ const Hero = () => {
             <br /> {t('heroPart2')}
           </h1>
         </div>
-        <div className='w-1/2'></div>
+        <div className='w-1/2'>
+          <Particles />
+        </div>
       </div>
       <div className='h-[1px] bg-gray-700 w-full mt-12'></div>
       <div className='flex items-center justify-between mt-4'>
