@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Paslaugos",
+        "navItem2": "Mūsų Darbai",
+        "navItem3": "Apie Mus",
+        "navItem4": "Įžvalgos",
+        "navItem5": "Susisiekite su mumis"
+    },
+    "Hero": {
+        "heroPart1": "Kuriamos skaitmeninės patirtys",
+        "heroPart2": "Kuriamos kūrybinės ateities",
+        "heroSub1": "Kelimas Web ir programinės įrangos sprendimai",
+        "heroSub2": "Nuo koncepcijos iki paleidimo ir toliau",
+        "heroSubButton": "Pradėkite kurti savo skaitmeninę buvimą"
+    },
+    "Marquee": {
+        "marquee": "Begalinis dizainas, be galo inovacijų."
+    },
+    "About": {
+        "message": "TheHikers yra būtinas sąjungininkas sparčiai augančioms technologijų įmonėms, kurios siekia užtikrinti investicijas, pristatyti ir rinkodarauti savo produktus, aiškinti sudėtingus konceptus ir atrankai įtraukti išskirtinį talentą. Mes specializuojamės jūsų kelio stiprinime per inovatyvų dizainą ir sklandų vystymąsi.",
+        "expectationsTitle": "Ką galite tikėtis:",
+        "expectations1": "Mes puikiai išmanome sukurti individualizuotas pristatymus įvairioms auditorijoms, ar tai būtų gyvosios įvykių ar skaitmeninės platformos, orientuojantis tiek į mažas susibūrimus, tiek į didelius auditorijus.",
+        "expectations2": "Mes deriname strateginį dizainą, vystymo kompetenciją ir kūrybiškumo prisilietimą, kad galėtume teikti pristatymus, kurie sužavėtų ir įtikintų. Pakelkite savo skaitmeninę komunikaciją su mumis.",
+        "approach": "Mūsų požiūris:",
+        "buttonText": "Skaityti daugiau"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDITAS",
+        "category12": "TEKSTŲ KŪRIMAS",
+        "category13": "PARDUODAMŲJŲ SKAIDĖ",
+        "category14": "PARDUODAMŲJŲ DIZAINAS",
+        "title2": "VISE",
+        "category21": "AGENTŪRA",
+        "category22": "BENDROVĖS PRISTATYMAS",
+        "buttonText": "Peržiūrėti visus atvejų tyrimus"
+    },
+    "Reviews": {
+        "message": "PASIRUOŠĘ PRADĖTI PROJEKTĄ?",
+        "buttonText": "Pradėti projektą"
+    },
+    "Footer": {
+        "left": "AKIS ATIDARYMAS",
+        "right": "PRISTATYMOS",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave, Vankūveris,",
+        "address2": "Kanada 30 Chukarina St Lviv, Ukraina",
+        "email": "hello@thehikers.design"
+    }
+}

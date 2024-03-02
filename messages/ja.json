@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "サービス",
+        "navItem2": "弊社の業績",
+        "navItem3": "弊社について",
+        "navItem4": "インサイト",
+        "navItem5": "お問い合わせ"
+    },
+    "Hero": {
+        "heroPart1": "デジタル体験の創造",
+        "heroPart2": "創造的な未来の構築",
+        "heroSub1": "Webおよびアプリケーションソリューションの向上",
+        "heroSub2": "コンセプトから起動まで、そしてその先へ",
+        "heroSubButton": "デジタルプレゼンスを構築を始める"
+    },
+    "Marquee": {
+        "marquee": "無限のデザイン、絶え間ない革新。"
+    },
+    "About": {
+        "message": "TheHikersは、急速に拡大するテクノロジー企業が投資を確保し、製品を展示およびマーケティングし、複雑なコンセプトを表現し、優れた才能を募集するための不可欠な仲間となります。当社は革新的なデザインとシームレスな開発を通じて、あなたの旅を支えることに特化しています。",
+        "expectationsTitle": "あなたが期待できること：",
+        "expectations1": "私たちは、ライブイベントやデジタルプラットフォームでの、親密な集まりから大観衆までを対象に、多様な観客向けにパーソナライズされたプレゼンテーションの制作に秀でています。",
+        "expectations2": "戦略的なデザイン、開発の専門知識、クリエイティブな要素を組み合わせ、魅力的で説得力のあるプレゼンテーションを提供します。私たちと一緒にデジタルコミュニケーションを向上させましょう。",
+        "approach": "私たちのアプローチ：",
+        "buttonText": "詳細を読む"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "監査",
+        "category12": "コピーライティング",
+        "category13": "セールスデッキ",
+        "category14": "セールスデザイン",
+        "title2": "VISE",
+        "category21": "エージェンシー",
+        "category22": "企業プレゼンテーション",
+        "buttonText": "すべてのケーススタディを表示"
+    },
+    "Reviews": {
+        "message": "プロジェクトを開始する準備はできていますか？",
+        "buttonText": "プロジェクトを開始"
+    },
+    "Footer": {
+        "left": "目を覚ます",
+        "right": "プレゼンテーション",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave バンクーバー、",
+        "address2": "カナダ 30 Chukarina St リヴィウ、ウクライナ",
+        "email": "hello@thehikers.design"
+    }
+}

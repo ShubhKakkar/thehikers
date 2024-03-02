@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Hizmetler",
+        "navItem2": "Çalışmalarımız",
+        "navItem3": "Hakkımızda",
+        "navItem4": "Görüşler",
+        "navItem5": "Bize Ulaşın"
+    },
+    "Hero": {
+        "heroPart1": "Dijital Deneyimler Oluşturmak",
+        "heroPart2": "Yaratıcı Gelecekler İnşa Etmek",
+        "heroSub1": "Web ve Uygulama Çözümlerini Yükseltmek",
+        "heroSub2": "Konseptten Başlayarak ve Ötesine Geçmek",
+        "heroSubButton": "Dijital varlığınızı oluşturmaya başlayın"
+    },
+    "Marquee": {
+        "marquee": "Sonsuz Tasarım, Bitmeyen İnovasyon."
+    },
+    "About": {
+        "message": "TheHikers, hızla büyüyen teknoloji şirketleri için yatırım güvencesi sağlamak, ürünlerini sergilemek ve pazarlamak, karmaşık kavramları açıklamak ve olağanüstü yetenekleri işe almak isteyenler için hayati bir müttefik olarak hizmet verir. Yaratıcı tasarım ve sorunsuz geliştirme ile yolculuğunuzu güçlendirmekte uzmanız.",
+        "expectationsTitle": "Neler bekleyebilirsiniz:",
+        "expectations1": "Çeşitli kitleler için kişiselleştirilmiş sunumlar yapma konusunda uzmanız, canlı etkinliklerden dijital platformlara kadar her türlü ortamda hizmet veriyoruz, hem samimi toplantılara hem de geniş kitlelere hitap ediyoruz.",
+        "expectations2": "Stratejik tasarım, geliştirme uzmanlığı ve biraz yaratıcılığı birleştirerek, büyüleyici ve ikna edici sunumlar sunuyoruz. Dijital iletişiminizi bizimle yükseltin.",
+        "approach": "Yaklaşımımız:",
+        "buttonText": "Daha Fazla Oku"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "DENETİM",
+        "category12": "KOPYA YAZI",
+        "category13": "SATIŞ DECK",
+        "category14": "SATIŞ TASARIMI",
+        "title2": "VISE",
+        "category21": "AJANS",
+        "category22": "ŞİRKET SUNUMU",
+        "buttonText": "Tüm Vaka Çalışmalarını Görüntüle"
+    },
+    "Reviews": {
+        "message": "PROJEYE BAŞLAMAYA HAZIR MISINIZ?",
+        "buttonText": "Projeyi Başlat"
+    },
+    "Footer": {
+        "left": "GÖZ AÇAN",
+        "right": "SUNUMLAR",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Kanada 30 Chukarina St Lviv, Ukrayna",
+        "email": "hello@thehikers.design"
+    }
+}

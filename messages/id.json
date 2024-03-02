@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Layanan",
+        "navItem2": "Karya Kami",
+        "navItem3": "Tentang Kami",
+        "navItem4": "Wawasan",
+        "navItem5": "Hubungi Kami"
+    },
+    "Hero": {
+        "heroPart1": "Menciptakan Pengalaman Digital",
+        "heroPart2": "Membangun Masa Depan Kreatif",
+        "heroSub1": "Meningkatkan Solusi Web dan Aplikasi",
+        "heroSub2": "Dari Konsep hingga Peluncuran dan Lebih",
+        "heroSubButton": "Mulai bangun kehadiran digital Anda"
+    },
+    "Marquee": {
+        "marquee": "Desain Tak Terbatas, Inovasi Tak Terhingga."
+    },
+    "About": {
+        "message": "TheHikers berfungsi sebagai sekutu vital bagi perusahaan teknologi yang berkembang pesat yang mencari untuk mengamankan investasi, memamerkan dan memasarkan produk mereka, mengartikulasikan konsep-konsep rumit, dan merekrut bakat yang luar biasa. Kami mengkhususkan diri dalam memberdayakan perjalanan Anda melalui desain inovatif dan pengembangan yang mulus.",
+        "expectationsTitle": "Apa yang dapat Anda harapkan:",
+        "expectations1": "Kami sangat ahli dalam membuat presentasi yang dipersonalisasi untuk berbagai khalayak, baik itu acara langsung atau platform digital, melayani pertemuan kecil maupun audiens yang lebih besar.",
+        "expectations2": "Kami menggabungkan desain strategis, keahlian pengembangan, dan sentuhan kreativitas untuk memberikan presentasi yang memikat dan meyakinkan. Tingkatkan komunikasi digital Anda bersama kami.",
+        "approach": "Pendekatan Kami:",
+        "buttonText": "Baca Selengkapnya"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDIT",
+        "category12": "COPYWRITING",
+        "category13": "SALES DECK",
+        "category14": "DESAIN PENJUALAN",
+        "title2": "VISE",
+        "category21": "AGENSI",
+        "category22": "PRESENTASI PERUSAHAAN",
+        "buttonText": "Lihat Semua Studi Kasus"
+    },
+    "Reviews": {
+        "message": "SIAP MEMULAI PROYEK?",
+        "buttonText": "Mulai Proyek"
+    },
+    "Footer": {
+        "left": "PRESENTASI",
+        "right": "YANG MEMBUKA MATA",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Kanada 30 Chukarina St Lviv, Ukraina",
+        "email": "hello@thehikers.design"
+    }
+}

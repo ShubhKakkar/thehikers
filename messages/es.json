@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Servicios",
+        "navItem2": "Nuestros Trabajos",
+        "navItem3": "Sobre Nosotros",
+        "navItem4": "Perspectivas",
+        "navItem5": "Contáctenos"
+    },
+    "Hero": {
+        "heroPart1": "Creando Experiencias Digitales",
+        "heroPart2": "Construyendo Futuros Creativos",
+        "heroSub1": "Elevando Soluciones Web y de Aplicaciones",
+        "heroSub2": "Desde el Concepto hasta el Lanzamiento y Más Allá",
+        "heroSubButton": "Comienza a construir tu presencia digital"
+    },
+    "Marquee": {
+        "marquee": "Diseño Infinito, Innovación Sin Fin."
+    },
+    "About": {
+        "message": "TheHikers sirve como un aliado vital para las empresas tecnológicas en rápido crecimiento que buscan asegurar inversiones, mostrar y comercializar sus productos, articular conceptos intrincados y reclutar talento excepcional. Nos especializamos en potenciar tu viaje a través de un diseño innovador y un desarrollo sin problemas.",
+        "expectationsTitle": "Lo que puedes esperar:",
+        "expectations1": "Nos destacamos en la creación de presentaciones personalizadas para audiencias diversas, ya sea en eventos en vivo o plataformas digitales, atendiendo tanto a reuniones íntimas como a audiencias más grandes.",
+        "expectations2": "Combinamos diseño estratégico, experiencia en desarrollo y un toque de creatividad para ofrecer presentaciones que cautivan y persuaden. Eleva tu comunicación digital con nosotros.",
+        "approach": "Nuestro enfoque:",
+        "buttonText": "Leer Más"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDITORÍA",
+        "category12": "REDACCIÓN",
+        "category13": "PRESENTACIÓN DE VENTAS",
+        "category14": "DISEÑO DE VENTAS",
+        "title2": "VISE",
+        "category21": "AGENCIA",
+        "category22": "PRESENTACIÓN DE LA EMPRESA",
+        "buttonText": "Ver Todos los Estudios de Caso"
+    },
+    "Reviews": {
+        "message": "¿LISTO PARA COMENZAR EL PROYECTO?",
+        "buttonText": "Comenzar el Proyecto"
+    },
+    "Footer": {
+        "left": "PRESENTACIONES",
+        "right": "QUE ABREN LOS OJOS",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Canadá 30 Chukarina St Lviv, Ucrania",
+        "email": "hello@thehikers.design"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Header": {
+      "navItem1": "Services",
+      "navItem2": "Our Works",
+      "navItem3": "About Us",
+      "navItem4": "Insights",
+      "navItem5": "Contact Us"
+    },
+    "Hero": {
+        "heroPart1": "Crafting Digital Experiences",
+        "heroPart2": "Building Creative Futures",
+        "heroSub1": "Elevating Web and App Solutions",
+        "heroSub2": "From Concept to Launch and Beyond",
+        "heroSubButton": "Start building your digital presence"
+    },
+    "Marquee": {
+        "marquee": "Infinite Design, Endless Innovation."
+    },
+    "About": {
+        "message": "TheHikers serves as a vital ally for rapidly expanding technology enterprises seeking to secure investments, showcase and market their products, articulate intricate concepts, and recruit exceptional talent. We specialize in empowering your journey through innovative design and seamless development.",
+        "expectationsTitle": "What you can expect:",
+        "expectations1": "We excel in crafting personalized presentations for diverse audiences, be it live events or digital platforms, catering to both intimate gatherings and larger audiences.",
+        "expectations2": "We blend strategic design, development expertise, and a touch of creativity to deliver presentations that captivate and persuade. Elevate your digital communication with us.",
+        "approach": "Our approach:",
+        "buttonText": "Read More"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDIT",
+        "category12": "COPYWRITING",
+        "category13": "SALES DECK",
+        "category14": "SALES DESIGN",
+        "title2": "VISE",
+        "category21": "AGENCY",
+        "category22": "COMPANY PRESENTATION",
+        "buttonText": "View All Case Studies"
+    },
+    "Reviews": {
+        "message": "READY TO START THE PROJECT ?",
+        "buttonText": "Start The Project"
+    },
+    "Footer": {
+        "left": "EYE-OPENING",
+        "right": "PRESENTATIONS",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "Linkedin",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Canada 30 Chukarina St Lviv, Ukraine",
+        "email": "hello@thehikers.design"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Servitia",
+        "navItem2": "Opera Nostra",
+        "navItem3": "De Nobis",
+        "navItem4": "Intellectus",
+        "navItem5": "Nobiscum Conloqui"
+    },
+    "Hero": {
+        "heroPart1": "Experientias Digitales Condituras",
+        "heroPart2": "Futura Creativa Aedificatura",
+        "heroSub1": "Solutiones Web et App Sublevantes",
+        "heroSub2": "A Conceptu Ad Excelsior",
+        "heroSubButton": "Digitalem Vestram Praesentiam Aedificare Incipite"
+    },
+    "Marquee": {
+        "marquee": "Design Infinitus, Innovatio Perpetua."
+    },
+    "About": {
+        "message": "TheHikers operatur ut alleata vitis esset ad technologias celeriter crescentes, quaesitas investmentes conquirere, sua prodigia ostendere et vendere, conceptus intricare explicare et ingentem talentum delectare. Nos experti sumus in viam tuam potentiamus per design novatorum et progressione continuata.",
+        "expectationsTitle": "Quid Expectare Potestis:",
+        "expectations1": "Confectio presentationum personalium diversis auditoribus, seu sint in comitiis publicis seu in tabulis digitalibus, adhibendo tam collegiorum quam publicorum auditoriorum accommodaremus.",
+        "expectations2": "Consilium designi, peritiam progressionis et adspectum creativitatis commiscemus, ut presentationes faciamus quae detinent et persuadent. Eleva communicationem tuam digitalem nobiscum.",
+        "approach": "Ratio Nostra:",
+        "buttonText": "Plus Legere"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDITUS",
+        "category12": "SCRIPTURA",
+        "category13": "DECRETUM VENDITIONIS",
+        "category14": "DESIGN DECRETUM VENDITIONIS",
+        "title2": "VISE",
+        "category21": "AGENTIA",
+        "category22": "PRAESENTATIO COMPANIAE",
+        "buttonText": "Cuncta Specta Casuum Studiorum"
+    },
+    "Reviews": {
+        "message": "PARATUS INCEPTUM INCIPERE?",
+        "buttonText": "Inceptum Incipe"
+    },
+    "Footer": {
+        "left": "APERIENS",
+        "right": "PRESENTATIONES",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Canada 30 Chukarina St Lviv, Ucraina",
+        "email": "hello@thehikers.design"
+    }
+}

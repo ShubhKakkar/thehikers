@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'GroteskSemibold';
+  src: url('/assets/fonts/GroteskSemibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Grotesk';
+  src: url('/assets/fonts/Grotesk.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IconMoon';
+  src: url('/assets/fonts/iconmoon.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Neue';
+  src: url('/assets/fonts/Neue.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'NeueRegular';
+  src: url('/assets/fonts/NeueRegular.ttf') format('truetype');
+}
+
+h1, h2, h3 {
+  font-family: 'Grotesk', 'Arial', sans-serif;
+}
+
+body {
+  font-family: 'Neue', 'Arial', sans-serif;
+}
+
+.eye::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 25px;
+  width: 40px;
+  height: 40px;
+  background: #111;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}

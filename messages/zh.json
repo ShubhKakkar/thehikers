@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "服务",
+        "navItem2": "我们的作品",
+        "navItem3": "关于我们",
+        "navItem4": "见解",
+        "navItem5": "联系我们"
+    },
+    "Hero": {
+        "heroPart1": "打造数字体验",
+        "heroPart2": "构建创意未来",
+        "heroSub1": "提升Web和应用解决方案",
+        "heroSub2": "从概念到启动，不断超越",
+        "heroSubButton": "开始构建您的数字存在"
+    },
+    "Marquee": {
+        "marquee": "无限设计，无尽创新。"
+    },
+    "About": {
+        "message": "TheHikers是迅速扩张的科技企业的重要盟友，致力于确保投资、展示和推广其产品、阐明复杂的概念以及招聘卓越人才。我们专注于通过创新设计和无缝开发支持您的旅程。",
+        "expectationsTitle": "您可以期待什么：",
+        "expectations1": "我们擅长为不同受众制作个性化的演示文稿，无论是现场活动还是数字平台，既可以迎合亲密聚会，也可以满足更大的观众。",
+        "expectations2": "我们将战略设计、开发专业知识和一些创意融合在一起，提供引人入胜且有说服力的演示文稿。与我们一起提升您的数字沟通。",
+        "approach": "我们的方法：",
+        "buttonText": "阅读更多"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "审计",
+        "category12": "文案",
+        "category13": "销售演示",
+        "category14": "销售设计",
+        "title2": "VISE",
+        "category21": "代理",
+        "category22": "公司介绍",
+        "buttonText": "查看所有案例研究"
+    },
+    "Reviews": {
+        "message": "准备开始项目了吗？",
+        "buttonText": "开始项目"
+    },
+    "Footer": {
+        "left": "引人入胜的",
+        "right": "演示文稿",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave 温哥华，",
+        "address2": "加拿大 30 Chukarina St 利沃夫，乌克兰",
+        "email": "hello@thehikers.design"
+    }
+}

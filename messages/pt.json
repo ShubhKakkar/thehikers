@@ -1,0 +1,53 @@
+{
+    "Header": {
+        "navItem1": "Serviços",
+        "navItem2": "Nossos Trabalhos",
+        "navItem3": "Sobre Nós",
+        "navItem4": "Visões",
+        "navItem5": "Fale Conosco"
+    },
+    "Hero": {
+        "heroPart1": "Criando Experiências Digitais",
+        "heroPart2": "Construindo Futuros Criativos",
+        "heroSub1": "Elevando Soluções Web e de Aplicativos",
+        "heroSub2": "Do Conceito ao Lançamento e Além",
+        "heroSubButton": "Comece a construir sua presença digital"
+    },
+    "Marquee": {
+        "marquee": "Design Infinito, Inovação Sem Fim."
+    },
+    "About": {
+        "message": "A TheHikers atua como aliada vital para empresas de tecnologia em expansão rápida que buscam garantir investimentos, apresentar e comercializar seus produtos, articular conceitos intricados e recrutar talentos excepcionais. Somos especializados em potencializar sua jornada por meio de design inovador e desenvolvimento contínuo.",
+        "expectationsTitle": "O que você pode esperar:",
+        "expectations1": "Excelente em criar apresentações personalizadas para públicos diversos, seja em eventos ao vivo ou plataformas digitais, atendendo tanto a encontros íntimos quanto a públicos maiores.",
+        "expectations2": "Misturamos design estratégico, experiência em desenvolvimento e um toque de criatividade para entregar apresentações que cativam e persuadem. Eleve sua comunicação digital conosco.",
+        "approach": "Nossa abordagem:",
+        "buttonText": "Leia Mais"
+    },
+    "Featured": {
+        "title1": "FYDE",
+        "category11": "AUDITORIA",
+        "category12": "REDAÇÃO",
+        "category13": "APRESENTAÇÃO DE VENDAS",
+        "category14": "DESIGN DE VENDAS",
+        "title2": "VISE",
+        "category21": "AGÊNCIA",
+        "category22": "APRESENTAÇÃO EMPRESARIAL",
+        "buttonText": "Ver Todos os Estudos de Caso"
+    },
+    "Reviews": {
+        "message": "PRONTO PARA INICIAR O PROJETO?",
+        "buttonText": "Iniciar o Projeto"
+    },
+    "Footer": {
+        "left": "APRESENTAÇÕES",
+        "right": "QUE ABREM OS OLHOS",
+        "social1": "Instagram",
+        "social2": "Behance",
+        "social3": "Facebook",
+        "social4": "LinkedIn",
+        "address1": "202-1965 W 4th Ave Vancouver,",
+        "address2": "Canadá 30 Chukarina St Lviv, Ucrânia",
+        "email": "hello@thehikers.design"
+    }
+}
