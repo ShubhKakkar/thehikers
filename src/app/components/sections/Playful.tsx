@@ -47,7 +47,7 @@ const Playful = () => {
   }, []);
 
   return (
-    <div className='py-24 px-20 h-screen grid place-items-center -z-10' data-scroll-section data-scroll data-scroll-speed={-.4}>
+    <div className='hidden py-24 px-20 h-screen md:grid place-items-center -z-10' data-scroll-section data-scroll data-scroll-speed={-.4}>
       <div
         className={`h-[90vh] w-[90vw] bg-cover bg-center bg-[url('/assets/images/playful.jpg')] rounded-xl bg-fixed brightness-90 grid place-items-center`}
       >

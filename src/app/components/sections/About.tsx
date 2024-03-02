@@ -7,22 +7,22 @@ import UncoverImage from '../ui/UncoverImage';
 const About = () => {
   const t = useTranslations('About');
   return (
-    <div className='py-24 px-20 bg-[#c7e267] text-gray-900 flex flex-col gap-16 shadow-2xl'>
-      <p className='text-6xl'>{t('message')}</p>
+    <div className='px-4 py-12 md:py-24 md:px-20 bg-[#c7e267] text-gray-900 flex flex-col gap-16 shadow-2xl'>
+      <p className='text-3xl md:text-6xl'>{t('message')}</p>
       <div className='h-[1px] bg-zinc-900'></div>
       <div className='flex items-start justify-between'>
-        <p className='text-xl'>{t('expectationsTitle')}</p>
-        <div className='w-1/2 text-xl flex flex-col gap-12'>
+        <p className='text-xl hidden md:block'>{t('expectationsTitle')}</p>
+        <div className='md:w-1/2 text-xl flex flex-col gap-12'>
           <p>{t('expectations1')}</p>
-          <p>
+          <p className='hidden md:block'>
             {t('expectations2')}
           </p>
         </div>
       </div>
-      <div className='h-[1px] bg-zinc-900'></div>
-      <div className='flex items-start justify-between'>
+      <div className='h-[1px] bg-zinc-900 hidden md:block'></div>
+      <div className='hidden md:flex items-start justify-between'>
         <div className='group'>
-          <p className='text-6xl'>{t('approach')}</p>
+          <p className='text-3xl md:text-6xl'>{t('approach')}</p>
           <button className='mt-8 bg-zinc-900 rounded-full px-8 py-4 text-gray-100 text-xl uppercase flex items-center justify-between group'>
             <span>{t('buttonText')}</span>
             <span className='rounded-full bg-gray-100 p-1 ease-in duration-200 scale-[0.4] group-hover:scale-125 relative left-4'>
@@ -31,7 +31,7 @@ const About = () => {
           </button>
 
         </div>
-        <UncoverImage className='w-1/2 rounded-xl'>
+        <UncoverImage className='md:w-1/2 rounded-xl'>
           <Image src='https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='web-development-demo' height={400} width={600} className='object-cover' />
         </UncoverImage>
       </div>
